@@ -2945,13 +2945,13 @@ gulp-match@^1.1.0:
   dependencies:
     minimatch "^3.0.3"
 
-gulp-mustache@^4.0.0:
-  version "4.1.2"
-  resolved "https://registry.yarnpkg.com/gulp-mustache/-/gulp-mustache-4.1.2.tgz#d32896be9832cc8059759bdfe773e6db0e6d2bcd"
-  integrity sha512-4nJKL6akiP77Znbog2my7XbJ94VnS8HmMBwLYvUNoSYmD99I9vCopIok6XXT1nOu0zXztc5HxQ2PndYt06PWAQ==
+gulp-mustache@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/gulp-mustache/-/gulp-mustache-5.0.0.tgz#5ebc8bbb36a0e657391b341f11325579d4502b07"
+  integrity sha512-8tk0R1Fd+l6+e/t954e3UheFo25dKkTapPLD1sWoSroPXfIPxyHVgbhfH5VJGqeXl3te5GOwPtfcxxZJ+PYoFg==
   dependencies:
     escape-string-regexp "^2.0.0"
-    mustache "^3.0.1"
+    mustache "^4.0.1"
     plugin-error "^1.0.0"
     replace-ext "^1.0.0"
     through2 "^3.0.1"
@@ -4257,10 +4257,10 @@ ms@^2.1.1:
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.2.tgz#d09d1f357b443f493382a8eb3ccd183872ae6009"
   integrity sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==
 
-mustache@^3.0.1:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/mustache/-/mustache-3.2.0.tgz#1c68e0bf77817a92e8a9216e35c53bbb342345f6"
-  integrity sha512-n5de2nQ1g2iz3PO9cmq/ZZx3W7glqjf0kavThtqfuNlZRllgU2a2Q0jWoQy3BloT5A6no7sjCTHBVn1rEKjx1Q==
+mustache@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/mustache/-/mustache-4.0.1.tgz#d99beb031701ad433338e7ea65e0489416c854a2"
+  integrity sha512-yL5VE97+OXn4+Er3THSmTdCFCtx5hHWzrolvH+JObZnUYwuaG7XV+Ch4fR2cIrcYI0tFHxS7iyFYl14bW8y2sA==
 
 mute-stdout@^1.0.0:
   version "1.0.1"
