@@ -114,12 +114,13 @@
   dependencies:
     "@types/node" "*"
 
-"@types/chrome@^0.0.96":
-  version "0.0.96"
-  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.96.tgz#afdd11564bffcb1623ea83a85ccff25f5a99b073"
-  integrity sha512-0b5H9CoFnBe1yGrC/wVS+zYFR8M8iaIPcR11BeHJvqDiP344DW6F/5sEBIGFyKl++CWVcvhx+7JQVUIjGWSN5w==
+"@types/chrome@^0.0.109":
+  version "0.0.109"
+  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.109.tgz#b9a9cf07882da28aeaa0c8fd2ebac8b92d06ba8f"
+  integrity sha512-VZTmNkzM3vrwKgrCA83htltKi7UBtlzoBWN1+TsSWHS1TLEMr9j/91jlSvObl/sn2HBw9s9s7/VC9/NQCLMV+w==
   dependencies:
     "@types/filesystem" "*"
+    "@types/har-format" "*"
 
 "@types/connect@*":
   version "3.4.33"
@@ -235,6 +236,11 @@
     "@types/undertaker" "*"
     "@types/vinyl-fs" "*"
     chokidar "^2.1.2"
+
+"@types/har-format@*":
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/@types/har-format/-/har-format-1.2.4.tgz#3275842095abb60d14b47fa798cc9ff708dab6d4"
+  integrity sha512-iUxzm1meBm3stxUMzRqgOVHjj4Kgpgu5w9fm4X7kPRfSgVRzythsucEN7/jtOo8SQzm+HfcxWWzJS0mJDH/3DQ==
 
 "@types/karma-webpack@^2.0.4":
   version "2.0.7"
